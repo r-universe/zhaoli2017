@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "l1kdeconv"]
 	path = l1kdeconv
 	url = https://github.com/cran/l1kdeconv
-	shallow = true
-	registered = true
